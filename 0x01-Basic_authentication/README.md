@@ -1,6 +1,6 @@
 # Basic authentication
 
-This project contains tasks for learning to authenticate a user using the Basic authentication scheme.
+This project contains tasks for learning to authenticate a user using the Basic authentication schemes in Python Flask.
 
 ## Tasks To Complete
 
